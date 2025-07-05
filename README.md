@@ -81,8 +81,5 @@ npm run dev
 
 ## License
 
-MIT © 2025 \[Your Name]
+MIT © 2025 \Akmal Hossain
 
----
-
-Let me know if you want this saved as a markdown file or want to extend it with instructions for mobile/desktop builds.
