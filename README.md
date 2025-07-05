@@ -81,5 +81,5 @@ npm run dev
 
 ## License
 
-MIT © 2025 \Akmal Hossain
+MIT © 2025 \ Akmal Hossain
 
